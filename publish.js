@@ -41,18 +41,11 @@ var urls=[
         'https://always.gvefydbk.top/',
         'https://grgrgg.gvefydbk.top/',
         'https://jyjyjj.gvefydbk.top/',
-        'https://hlcgw55.com',
-        'https://hlcgw53.com',
-        'https://hlcgw54.com',
 ];
                                                                                                                   
 var JumpPage="https://hlcgw.com";
 
-var newestUrls = [
-        'https://hlcgw55.com',
-        'https://hlcgw53.com',
-        'https://hlcgw54.com',
-];
+var newestUrls = [];
 
 
 for(var i =0;i<urls.length*3;i++){
