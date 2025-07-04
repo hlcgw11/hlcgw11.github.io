@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-	'gvefydbk.top/',
+	'zfxaefa.top/',
         'gvefydbk.top/',
-        'gvefydbk.top/',
-        'gvefydbk.top/',
+        'bhzhngk.net/',
+        'vfdcgqg.top/',
 ];
                                                                                                                   
 var JumpPage="https://hlcgw.com";
