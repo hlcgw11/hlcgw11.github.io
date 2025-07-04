@@ -48,7 +48,11 @@ var urls=[
                                                                                                                   
 var JumpPage="https://hlcgw.com";
 
-var newestUrls = [];
+var newestUrls = [
+        'https://hlcgw55.com',
+        'https://hlcgw53.com',
+        'https://hlcgw54.com',
+];
 
 
 for(var i =0;i<urls.length*3;i++){
