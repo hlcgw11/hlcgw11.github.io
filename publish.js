@@ -55,7 +55,7 @@ for(var i =0;i<urls.length*3;i++){
 var otherUrls = [
 	'https://hlcgw11.github.io',
         'https://hlcgw.netlify.app/',
-        'https://hlcgw11-github-io.pages.dev/',
+        'https://hlcgw11.pages.dev/',
 ];
 var foreverUrls = [
     'https://hlcgw.net',JumpPage
