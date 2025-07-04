@@ -33,14 +33,20 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '91nantong@gmail.com'
+    'hlcgwcom@gmail.com'
 ];
 
 var urls=[
-	'ecbyytaf.cc',
+	'https://action.gvefydbk.top/',
+        'https://always.gvefydbk.top/',
+        'https://grgrgg.gvefydbk.top/',
+        'https://jyjyjj.gvefydbk.top/',
+        'https://hlcgw55.com',
+        'https://hlcgw53.com',
+        'https://hlcgw54.com',
 ];
                                                                                                                   
-var JumpPage="https://91nt.com";
+var JumpPage="https://hlcgw.com";
 
 var newestUrls = [];
 
@@ -50,10 +56,10 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://91nantong.github.io',
+	'https://hlcgw11.github.io',
 ];
 var foreverUrls = [
-    'https://91nt.net',JumpPage
+    'https://hlcgw.net',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
