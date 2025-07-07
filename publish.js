@@ -44,7 +44,7 @@ var urls=[
 
 ];
                                                                                                                   
-var JumpPage="https://hlcgw.com";
+var JumpPage="https://hlcgw55.com";
 
 var newestUrls = [];
 
