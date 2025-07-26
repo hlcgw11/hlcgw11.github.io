@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-        'ifspsed.top/',
-	'ypbstoo.top/',
+        'sphboafo.com/',
+	'ifspsed.top/',
+        'ypbstoo.top/',
         'ructxgvv.top/',
-        'jtsquqi.cc/',
 
 ];
                                                                                                                   
