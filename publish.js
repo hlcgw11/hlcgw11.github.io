@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-        'sblqnwzg.cc/',
-	    'dvhgsco.org/',
+        'cbpobhl.org/',
+	    'sblqnwzg.cc/',
+        'dvhgsco.org/',
         'utjvnuty.biz/',
-        'kqiksckt.info/',
 
 ];
                                                                                                                   
