@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-        'wjacmub.top/',
-	    'ghsrvfx.cc/',
+        'llvmevc.cc/',
+	    'ebayyag.cc/',
+        'ghsrvfx.cc/',
         'zjsrfrzc.org/',
-        'sznsxps.org/',
 
 ];
                                                                                                                   
