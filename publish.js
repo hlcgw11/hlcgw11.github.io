@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[
+        'fqbevjby.cc/',
+	    'riixgmvp.cc/',
         'hekpdjfh.xyz/',
-	    'bahqgcwe.xyz/',
-        'trkqlzuh.xyz/',
-        'rgbzyrs.com/',
+        'bahqgcwe.xyz/',
 
 ];
                                                                                                                   
-var JumpPage="https://hlcgw79.com";
+var JumpPage="https://hlcgw80.com";
 
 var newestUrls = [];
 
