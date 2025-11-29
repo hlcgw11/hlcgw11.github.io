@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[
+        'yvzzyip.cc/',
+	    'ucgwblt.cc/',
+        'rprnuorq.com/',
         'kbgxouh.xyz/',
-	    'ieojkdq.xyz/',
-        'zhlxnxeh.com/',
-        'pyxkazgt.com/',
 
 ];
                                                                                                                   
-var JumpPage="https://hlcgw98.com";
+var JumpPage="https://heiliao-1.com";
 
 var newestUrls = [];
 
