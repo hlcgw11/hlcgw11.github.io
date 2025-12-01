@@ -38,13 +38,13 @@ var emails = [
 
 var urls=[
         'yvzzyip.cc/',
-	    'ucgwblt.cc/',
-        'rprnuorq.com/',
-        'kbgxouh.xyz/',
+	    'hofxsgu.xyz/',
+        'yvzzyip.cc/',
+        'ucgwblt.cc/',
 
 ];
                                                                                                                   
-var JumpPage="https://heiliao-1.com";
+var JumpPage="https://heiliao-2.com";
 
 var newestUrls = [];
 
