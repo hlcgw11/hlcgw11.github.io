@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-        'yvzzyip.cc/',
+        'dgzbuffy.xyz/',
 	    'hofxsgu.xyz/',
         'yvzzyip.cc/',
-        'ucgwblt.cc/',
+        'hofxsgu.xyz/',
 
 ];
                                                                                                                   
