@@ -38,8 +38,8 @@ var emails = [
 
 var urls=[
         'twbwqiko.com/',
-	    'knxfody.ccz/',
-        'kkwdowlx.ccz/',
+	    'knxfody.cc/',
+        'kkwdowlx.cc/',
         'kjvkjhr.xyz/',
 
 ];
