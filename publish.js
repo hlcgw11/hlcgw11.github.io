@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-        'uwketik.com/',
-	    'vkscaxl.xyz/',
-        'vhbkgsfn.cc/',
+        'vkscaxl.xyz/',
+	    'vhbkgsfn.cc/',
+        'verocmc.cc/',
         'uxgovcs.com/',
 
 ];
