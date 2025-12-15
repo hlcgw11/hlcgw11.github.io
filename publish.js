@@ -39,12 +39,12 @@ var emails = [
 var urls=[
         'ntplcdok.cc/',
 	    'gkzdoglj.xyz/',
-        'vkscaxl.xyz/',
-        'vhbkgsfn.cc/',
+        'peomhto.xyz/',
+        'ohrievj.xyz/',
 
 ];
                                                                                                                   
-var JumpPage="https://heiliao-16.com";
+var JumpPage="https://heiliao-17.com";
 
 var newestUrls = [];
 
