@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-        'bfxjzdpy.xyz/',
+        'epdwvool.xyz/',
 	    'bhqdighl.com/',
         'bhhjuuyu.xyz/',
         'uikzhzx.xyz/',
