@@ -40,11 +40,11 @@ var urls=[
         'hgetvyx.com/',
 	    'gyktmfw.xyz/',
         'gtzkjfje.xyz/',
-        'grfpiflw.com/',
+        'ugvcozh.com/',
 
 ];
                                                                                                                   
-var JumpPage="https://heiliao-22.com";
+var JumpPage="https://heiliao-23.com";
 
 var newestUrls = [];
 
