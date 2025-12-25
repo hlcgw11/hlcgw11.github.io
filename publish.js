@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-        'pdggxjx.cc/',
-	    'dlhkseua.cc/',
-        'dkzgbksd.xyz/',
-        'dfxavku.cc/',
+        'chigua-2.net/',
+	    'chigua-1.net/',
+        'quergaov.cc/',
+        'quafwam.cc/',
 
 ];
                                                                                                                   
