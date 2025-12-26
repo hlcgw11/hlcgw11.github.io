@@ -44,7 +44,7 @@ var urls=[
 
 ];
                                                                                                                   
-var JumpPage="https://heiliao-24.com";
+var JumpPage="https://heiliao-25.com";
 
 var newestUrls = [];
 
