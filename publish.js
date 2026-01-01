@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-        'chigua-28.net/',
-	    'chigua-27.net/',
-        'chigua-26.net/',
-        'chigua-25.net/',
+        'chigua-33.net/',
+	    'chigua-32.net/',
+        'chigua-31.net/',
+        'chigua-30.net/',
 
 ];
                                                                                                                   
