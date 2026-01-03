@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[
+        '18cartoon.com/',
+	    'chigua-40.net/',
+        'chigua-39.net/',
         'chigua-38.net/',
-	    'chigua-37.net/',
-        'chigua-36.net/',
-        'chigua-35.net/',
 
 ];
                                                                                                                   
-var JumpPage="https://heiliao-29.com";
+var JumpPage="https://heiliao-30.com";
 
 var newestUrls = [];
 
