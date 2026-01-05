@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-        '51cghub.com/',
-	    'chigua-40.net/',
-        '17cartoon.com/',
-        '18cartoon.com/',
+        'jiuyishe.com/',
+	    'clsqw.com/',
+        '91kpw.com/',
+        'gaycg.com/',
 
 ];
                                                                                                                   
