@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-        'hlcgw9.cc/',
-	    'hlcgw8.cc/',
-        'hlcgw7.cc/',
-        'hlcgw6.cc/',
+        'hlcgw13.cc/',
+	    'hlcgw12.cc/',
+        'hlcgw11.cc/',
+        'hlcgw10.cc/',
 
 ];
                                                                                                                   
