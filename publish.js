@@ -40,11 +40,11 @@ var urls=[
         'hlcgw13.cc/',
 	    'hlcgw12.cc/',
         'hlcgw11.cc/',
-        'hlcgw10.cc/',
+        'hlcgw14.cc/',
 
 ];
                                                                                                                   
-var JumpPage="https://hlcgw8.com";
+var JumpPage="https://hlcgw9.com";
 
 var newestUrls = [];
 
