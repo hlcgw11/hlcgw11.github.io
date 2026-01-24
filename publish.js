@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[
+        'hlcgw20.cc/',
+	    'hlcgw19.cc/',
+        'hlcgw18.cc/',
         'hlcgw17.cc/',
-	    'hlcgw16.cc/',
-        'hlcgw15.cc/',
-        'hlcgw14.cc/',
 
 ];
                                                                                                                   
-var JumpPage="https://hlcgw9.com";
+var JumpPage="https://hlcgw10.com";
 
 var newestUrls = [];
 
