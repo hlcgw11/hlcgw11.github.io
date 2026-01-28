@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[
-        'hlcgw30.cc/',
-	    'hlcgw29.cc/',
-        'hlcgw28.cc/',
-        'hlcgw27.cc/',
+        'hlcgw34.cc/',
+	    'hlcgw33.cc/',
+        'hlcgw32.cc/',
+        'hlcgw31.cc/',
 
 ];
                                                                                                                   
-var JumpPage="https://heiliao-38.com";
+var JumpPage="https://heiliao-39.com";
 
 var newestUrls = [];
 
