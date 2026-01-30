@@ -40,11 +40,11 @@ var urls=[
         'hlcgw38.cc/',
 	    'hlcgw37.cc/',
         'hlcgw36.cc/',
-        'hlcgw35.cc/',
+        'hlcgw39.cc/',
 
 ];
                                                                                                                   
-var JumpPage="https://heiliao-39.com";
+var JumpPage="https://heiliao-40.com";
 
 var newestUrls = [];
 
