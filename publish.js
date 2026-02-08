@@ -40,7 +40,7 @@ var urls=[
         'uqkrozjy.cc/',
 	    'vcdkqoe.cc/',
         'vbnfcvb.xyz/',
-        'sgornxg.xyz/',
+        'uqkrozjy.cc/',
 
 ];
                                                                                                                   
