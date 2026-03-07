@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-        'kygavoz.com/',
-	    'itqyzivo.cc/',
-        'crlxjgt.cc/',
+        'tbywbkuh.cc/',
+	    'sbxhsud.xyz/',
+        'ljcjlez.xyz/',
         'pnujstpt.cc/',
 
 ];
