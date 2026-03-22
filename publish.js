@@ -38,9 +38,9 @@ var emails = [
 
 var urls=[
         'oojubvd.com/',
-	    'akheghe.cc/',
-        'jihhqhyd.cc/',
-        'vjysxpg.com/',
+	    'aruhalga.cc/',
+        'rrozsvo.com/',
+        'zhxamovo.com/',
 
 ];
                                                                                                                   
