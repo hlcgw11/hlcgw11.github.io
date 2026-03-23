@@ -40,7 +40,7 @@ var urls=[
         'lkqlyto.cc/',
 	    'ajecjiw.cc/',
         'vnasrch.cc/',
-        'zhxamovo.com/',
+        'dpschbp.com/',
 
 ];
                                                                                                                   
