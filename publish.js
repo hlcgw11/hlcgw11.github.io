@@ -40,11 +40,11 @@ var urls=[
         'fvakuok.cc/',
 	    'kczzpkf.cc/',
         'kosoasmm.com/',
-        'lswqnbqr.cc/',
+        'qjjyass.com/',
 
 ];
                                                                                                                   
-var JumpPage="https://heiliao-68.com";
+var JumpPage="https://heiliao-69.com";
 
 var newestUrls = [];
 
