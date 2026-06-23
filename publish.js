@@ -20,13 +20,13 @@ var emails = [
     'hlcgwcom@gmail.com'
 ];
 
-// 中转域名池（最新入口从这里随机生成）
-var urls = [
-    'heiliaocg01.com/',
-    'heiliaocg02.com/',
-    'heiliaocg03.com/',
-    'heiliaocg04.com/',
-    'heiliaocg05.com/',
+// 最新入口（固定 5 条完整域名）
+var newestUrls = [
+    'https://heiliaocg01.com/',
+    'https://heiliaocg02.com/',
+    'https://heiliaocg03.com/',
+    'https://heiliaocg04.com/',
+    'https://heiliaocg05.com/',
 ];
 
 // 永久网址
@@ -62,37 +62,12 @@ function randomNum(minNum, maxNum) {
     }
 }
 
-// 生成 5 条最新入口（去重）
-var newestUrls = [];
-(function () {
-    var seen = {};
-    var guard = 0;
-    while (newestUrls.length < 5 && guard < 200) {
-        guard++;
-        var u = 'https://' + getRandomSubdomain() + '.' + urls[randomNum(0, urls.length - 1)];
-        if (!seen[u]) {
-            seen[u] = true;
-            newestUrls.push(u);
-        }
-    }
-})();
-
-// 最新入口：纯链接，无任何前缀
-function buildNewestItems() {
-    var items = [];
-    for (var i = 0; i < newestUrls.length; i++) {
-        items.push('<a href="' + newestUrls[i] + '" target="_blank">' + newestUrls[i] + '</a>');
-    }
-    return items;
-}
-
 function createFieldElem(option) {
     var title = option.title;
     var items = option.items;
     var plainText = option.plainText;
     var classStr = option.classStr;
     var text = option.text;
-    var rawHtml = option.rawHtml;  // items 已是 HTML 片段，不再包 <a>
 
     var fieldElem = document.createElement('div');
     var fieldClass = ['field', classStr].join(' ');
@@ -107,9 +82,7 @@ function createFieldElem(option) {
 
     var htmlStr = '';
     for (var i = 0; i < items.length; i++) {
-        if (rawHtml) {
-            htmlStr += '<li>' + items[i] + '</li>';
-        } else if (plainText) {
+        if (plainText) {
             htmlStr += '<li>' + items[i] + '</li>';
         } else {
             htmlStr += '<li><a href="' + items[i] + '" target="_blank">' + items[i] + '</a></li>';
@@ -144,8 +117,7 @@ window.onload = function () {
     // 最新入口（5条）
     mainElem.appendChild(createFieldElem({
         title: '最新入口',
-        items: buildNewestItems(),
-        rawHtml: true,
+        items: newestUrls,
         text: '请使用https://协议访问黑料吃瓜网'
     }));
 
