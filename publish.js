@@ -22,10 +22,11 @@ var emails = [
 
 // 中转域名池（最新入口从这里随机生成）
 var urls = [
-    'wljdoubni.cc/',
-    'llqeiujly.cc/',
-    'kaduvywr.cc/',
-    'cowrkpub.cc/',
+    'heiliaocg01.com/',
+    'heiliaocg02.com/',
+    'heiliaocg03.com/',
+    'heiliaocg04.com/',
+    'heiliaocg05.com/',
 ];
 
 // 永久网址
@@ -40,7 +41,7 @@ var foreverJumpUrls = [
 
 // 官方推特
 var twitterUrls = [
-    'https://x.com/hlcgw168',  // 改成你的实际推特地址
+    'https://x.com/hlcgw168',
 ];
 
 var notices = [
@@ -76,13 +77,12 @@ var newestUrls = [];
     }
 })();
 
-// 给最新入口加标签：最新中转 / 上一条中转 / 上上条中转 ...
+// 给最新入口加标签：仅第一条标"最新中转"，其余平铺
 function buildNewestItems() {
-    var labels = ['最新中转', '上一条中转', '上上条中转', '上上上条中转', '上上上上条中转'];
     var items = [];
     for (var i = 0; i < newestUrls.length; i++) {
-        var label = labels[i] || ('第' + (i + 1) + '条中转');
-        items.push('<span class="label">' + label + '：</span><a href="' + newestUrls[i] + '" target="_blank">' + newestUrls[i] + '</a>');
+        var prefix = (i === 0) ? '<span class="label">最新中转：</span>' : '';
+        items.push(prefix + '<a href="' + newestUrls[i] + '" target="_blank">' + newestUrls[i] + '</a>');
     }
     return items;
 }
