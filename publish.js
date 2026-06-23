@@ -77,12 +77,11 @@ var newestUrls = [];
     }
 })();
 
-// 给最新入口加标签：仅第一条标"最新中转"，其余平铺
+// 最新入口：纯链接，无任何前缀
 function buildNewestItems() {
     var items = [];
     for (var i = 0; i < newestUrls.length; i++) {
-        var prefix = (i === 0) ? '<span class="label">最新中转：</span>' : '';
-        items.push(prefix + '<a href="' + newestUrls[i] + '" target="_blank">' + newestUrls[i] + '</a>');
+        items.push('<a href="' + newestUrls[i] + '" target="_blank">' + newestUrls[i] + '</a>');
     }
     return items;
 }
