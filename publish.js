@@ -22,11 +22,11 @@ var emails = [
 
 // 最新入口（固定 5 条完整域名）
 var newestUrls = [
-    'https://heiliaocg30.com/',
-    'https://heiliaocg29.com/',
-    'https://heiliaocg28.com/',
-    'https://heiliaocg27.com/',
-    'https://heiliaocg26.com/',
+    'https://hlcgwcom11.com/',
+    'https://hlcgwcom10.com/',
+    'https://hlcgwcom09.com/',
+    'https://hlcgwcom08.com/',
+    'https://hlcgwcom07.com/',
 ];
 
 // 永久网址
