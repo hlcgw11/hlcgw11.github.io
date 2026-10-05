@@ -22,11 +22,11 @@ var emails = [
 
 // 最新入口（固定 5 条完整域名）
 var newestUrls = [
-    'https://hlcgwcom11.com/',
-    'https://hlcgwcom10.com/',
-    'https://hlcgwcom09.com/',
-    'https://hlcgwcom08.com/',
-    'https://hlcgwcom07.com/',
+    'https://hlcgwcom25.com/',
+    'https://hlcgwcom24.com/',
+    'https://hlcgwcom23.com/',
+    'https://hlcgwcom22.com/',
+    'https://hlcgwcom21.com/',
 ];
 
 // 永久网址
@@ -41,7 +41,7 @@ var foreverJumpUrls = [
 
 // 官方推特
 var twitterUrls = [
-    'https://x.com/hlcg666',
+    'https://x.com/hlcgwcom456',
 ];
 
 var notices = [
